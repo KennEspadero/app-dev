@@ -7,7 +7,7 @@
   ## Description ##
 The Maze Runner is based on a book by James Dashner of the same title published in 2009, and it’s your typical “young people trying to outwit an authoritarian regime” story. In The Maze Runner, a group of 50 amnesiac boys live in a clearing (called the Glade; they’re called Gladers) that is in turn surrounded by an intricate maze. Roaming around the maze are Grievers — half goopy spider, half machine creatures — which can kill you. The boys refer to the people watching them as the “Creators.”
 
-## Cast amd Characters ##
+## Cast and Characters ##
 
 <table>
   <tr>
