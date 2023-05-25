@@ -32,7 +32,6 @@ To perform my best in this field that I have chosen and to gain more knowledge t
 - Basic Computer  Program	
 -	Fast Learner
 
-
 ## Educational Background ##
 
 - **Tertiary**		: 	STI San Jose Del Monte 
